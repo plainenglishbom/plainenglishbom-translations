@@ -1,0 +1,29 @@
+{
+  "name": "@plainenglishbom/translations",
+  "version": "2026.01.0",
+  "description": "Plain English translations of the Book of Mormon",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "en",
+    "es",
+    "index.js",
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plainenglishbom/plainenglishbom-translations.git"
+  },
+  "keywords": [
+    "book-of-mormon",
+    "translation",
+    "plain-english",
+    "scripture"
+  ],
+  "author": "Kenny Eliason <kenny@quilia.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/plainenglishbom/plainenglishbom-translations/issues"
+  },
+  "homepage": "https://plainenglishbom.com"
+}
